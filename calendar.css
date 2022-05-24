@@ -58,6 +58,11 @@ margin-bottom: 200px;
 }
 .footerContainer>ul>li {
   margin-top: 105px;
+  
+}
+
+.footerContainer>ul>li>a{
+  color: white;
 }
 
 /* wave */
